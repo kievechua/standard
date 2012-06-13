@@ -1,0 +1,13 @@
+{
+    "someName" : ["some value", "some value"],
+    "someName" : [
+        "some value",
+        "some value"
+    ],
+
+    "someObject" : {"someKey" : "some key"},
+    "someObject" : {
+        "someKey" : "some key",
+        "someKey" : "some key"
+    },
+}
